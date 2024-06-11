@@ -58,4 +58,3 @@ Her türlü katkı ve geri bildirim için açığız. Lütfen bir Issue açarak 
 
 Hugging Face adresi: [Car Price Prediction - Hugging Face](https://huggingface.co/spaces/osmanteme1/car_predictions)
 
-Bu README dosyası, projenin genel yapısı ve kullanımı hakkında temel bilgiler sağlar. İhtiyacınıza göre güncelleyebilirsiniz.
